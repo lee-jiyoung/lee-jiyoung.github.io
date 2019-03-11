@@ -9,6 +9,8 @@
   <meta name="keywords" content="global, template, html, sass, jquery">
   <meta name="author" content="Jiyoung Lee">
   <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/my.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" />
 </head>
 <body>
 
@@ -52,7 +54,7 @@
                       <h2 style="font-weight: 400;">Researcher<br/>
                           Ph.D. Candidate<br/> Computer Vision & AI</h2>
                       <!-- <h3>Computer Vision</h3> -->
-                      <a href="assets/file/JiyoungLee_CV.pdf" style="text-decoration:none;">
+                      <a href="assets/file/JiyoungLee_CV.pdf" style="text-decoration:none; color:white;">
                       <button class="cta" style="">Curriculum Vitae
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                         <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -104,7 +106,7 @@
                     <br/>
                     For more check out my CV and contact me by email.
                 </h3>
-                <a href="#0">Career
+                <a href="assets/file/JiyoungLee_CV.pdf" style="font-size:16px;">CV
                   <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -113,9 +115,33 @@
                     </svg>
                   </span>
                 </a>
-                <img src="assets/img/about-visual.png" alt="About Us">
+                <!-- <img src="assets/img/about-visual.png" alt="About Us"> -->
               </div>
-              <div class="about--options">
+              <div class="intro--options">
+                  <p>
+                      <span style="font-size:16px; font-weight:bold; text-transform:uppercase;">
+                          Code
+                      </span>
+                      <br/>Python, C/C++, Java, Lua, MATLAB, Linux
+                  </p>
+              </div>
+              <div class="intro--options">
+                  <p>
+                      <span style="font-size:16px; font-weight:bold; text-transform:uppercase;">
+                          Deep Learning Library
+                      </span>
+                      <br/>PyTorch, Tensorflow, Torch, Caffe, MatConvNet
+                  </p>
+              </div>
+              <div class="intro--options">
+                  <p>
+                      <span style="font-size:16px; font-weight:bold; text-transform:uppercase;">
+                          Web
+                      </span>
+                      <br/>Django, Ruby on Rails, HTML5/CSS, Javascript
+                  </p>
+              </div>
+              <!-- <div class="about--options">
                 <a href="#0">
                   <h3>Winners</h3>
                 </a>
@@ -125,7 +151,7 @@
                 <a href="#0">
                   <h3>History</h3>
                 </a>
-              </div>
+              </div> -->
             </div>
           </li>
           <li class="l-section section">
@@ -183,56 +209,97 @@ Comprehensive Vidoe Understanding in the Wild
           </li>
 
           <li class="l-section section">
-            <div class="work">
-              <h2>Project</h2>
-              <div class="work--lockup">
-                <ul class="slider">
-                  <li class="slider--item slider--item-left">
-                    <a href="#0">
-                      <div class="slider--item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Victory">
+            <div class="intro">
+
+              <div class="projects-div slideshow-container">
+                  <h2>Project</h2>
+                  <div class="projects mySlides fade">
+                      <div class="images-right">
+                          <img src="assets/img/csz.png" />
                       </div>
-                      <p class="slider--item-title">Victory</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
-                    </a>
-                  </li>
-                  <li class="slider--item slider--item-center">
-                    <a href="#0">
-                      <div class="slider--item-image">
-                        <img src="assets/img/work-metiew-smith.jpg" alt="Metiew and Smith">
+                      <div class="projects-contents">
+                          <h3>
+                              Research on Fundamental Technology <br />
+                              for Deep Learning-Based Semantic State Understanding
+                          </h3>
+                          <p class="fund">
+                              Funded by National Research Foundation Ministry of Science<br />
+                              2017 - Present<br />
+                          </p>
+                          <p>
+                              Developed an algorithm for understanding untrimmed videos
+                          </p>
                       </div>
-                      <p class="slider--item-title">Metiew &amp; Smith</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
-                    </a>
-                  </li>
-                  <li class="slider--item slider--item-right">
-                    <a href="#0">
-                      <div class="slider--item-image">
-                        <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
-                      </div>
-                      <p class="slider--item-title">Alex Nowak</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
-                    </a>
-                  </li>
-                </ul>
-                <div class="slider--prev">
-                  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                  viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
-                  <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
-                    <path d="M561,1169C525,1155,10,640,3,612c-3-13,1-36,8-52c8-15,134-145,281-289C527,41,562,10,590,10c22,0,41,9,61,29
-                    c55,55,49,64-163,278L296,510h575c564,0,576,0,597,20c46,43,37,109-18,137c-19,10-159,13-590,13l-565,1l182,180
-                    c101,99,187,188,193,199c16,30,12,57-12,84C631,1174,595,1183,561,1169z"/>
-                  </g>
-                  </svg>
                 </div>
-                <div class="slider--next">
-                  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
-                  <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
-                    <path d="M870,1167c-34-17-55-57-46-90c3-15,81-100,194-211l187-185l-565-1c-431,0-571-3-590-13c-55-28-64-94-18-137c21-20,33-20,597-20h575l-192-193C800,103,794,94,849,39c20-20,39-29,61-29c28,0,63,30,298,262c147,144,272,271,279,282c30,51,23,60-219,304C947,1180,926,1196,870,1167z"/>
-                  </g>
-                  </svg>
+                <div class="projects mySlides fade">
+                    <div class="images-left">
+                        <img src="assets/img/KR-UK.png" />
+                    </div>
+                    <div class="projects-contents-right">
+                        <h3>
+                          Intelligent Virtual Reality: <br />
+                          Deep Audio-Visual Representation Learning <br />
+                          for Multimedia Perception and Reproduction
+                        </h3>
+                        <p class="fund">
+                          Funded by Institute of Information & Communication Technology<br />
+                          2017 - Present<br />
+                        </p>
+                        <p>
+                          Developed deep network using audio-visual data
+                        </p>
+                    </div>
                 </div>
-              </div>
+                <div class="projects mySlides fade">
+                    <div class="images-right">
+                        <img src="assets/img/emotion.png" />
+                    </div>
+                    <div class="projects-contents">
+                        <h3>
+                          Emotional Intelligence Technology to <br />
+                          Infer Human Emotion and Carry on Dialogue Accordingly
+                        </h3>
+                        <p class="fund">
+                          Funded by Institute of Information \& Communication Technology<br />
+                          2017 - 2018 <br />
+                        </p>
+                        <p>
+                          Developed an algorithm for inferring human emotion from multi-spectral images
+                        </p>
+                    </div>
+                </div>
+                <div class="projects mySlides fade">
+                    <div class="images-left">
+                        <img src="assets/img/digital_contents.png" />
+                    </div>
+                    <div class="projects-contents-right">
+                        <h3>
+                            High Quality 2D-to-Multiview Contents Generation <br />
+                            from Large-Scale RGB+D Database
+                        </h3>
+                        <p class="fund">
+                            Funded by Institute of Information & Communication Technology<br />
+                            2016 - 2017<br />
+                        </p>
+                        <p>
+                            Developed deep network for inferring high-quality depth from a single 2-D image
+                        </p>
+                    </div>
+                </div>
+
+
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                <div style="text-align:center">
+
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
+                    <span class="dot" onclick="currentSlide(4)"></span>
+                </div>
+
+            </div>
+
             </div>
           </li>
 
@@ -256,9 +323,9 @@ Comprehensive Vidoe Understanding in the Wild
           </li> -->
           <li class="l-section section">
             <div class="hire">
-              <h2>You want us to do</h2>
+              <h2>Interest</h2>
               <!-- checkout formspree.io for easy form setup -->
-              <form class="work-request">
+              <!-- <form class="work-request" method="post" action="assets/php/send_form_email.php" > -->
                 <div class="work-request--options">
                   <span class="options-a">
                     <input id="opt-1" type="checkbox" value="app design">
@@ -269,7 +336,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      App Design
+                      Computer Vision
                     </label>
                     <input id="opt-2" type="checkbox" value="graphic design">
                     <label for="opt-2">
@@ -279,7 +346,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Graphic Design
+                      Image Processing
                     </label>
                     <input id="opt-3" type="checkbox" value="motion design">
                     <label for="opt-3">
@@ -289,7 +356,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Motion Design
+                      Sequential Learning
                     </label>
                   </span>
                   <span class="options-b">
@@ -301,7 +368,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      UX Design
+                      Emotion Recognition
                     </label>
                     <input id="opt-5" type="checkbox" value="webdesign">
                     <label for="opt-5">
@@ -311,7 +378,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Webdesign
+                      Deep Learning
                     </label>
                     <input id="opt-6" type="checkbox" value="marketing">
                     <label for="opt-6">
@@ -321,7 +388,7 @@ Comprehensive Vidoe Understanding in the Wild
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Marketing
+                      Audio-Visual
                     </label>
                   </span>
                 </div>
@@ -335,8 +402,7 @@ Comprehensive Vidoe Understanding in the Wild
                     <label for="email">Email</label>
                   </div>
                 </div>
-                <input type="submit" value="Send Request">
-              </form>
+                <a class="send-emaion-btn" href="mailto:easy00@yonsei.ac.kr">Send</a>
             </div>
           </li>
         </ul>
@@ -355,5 +421,34 @@ Comprehensive Vidoe Understanding in the Wild
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
+<script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+    }
+</script>
+
 </body>
 </html>
