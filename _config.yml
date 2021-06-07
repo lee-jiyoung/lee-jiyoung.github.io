@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiyoung Lee"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "Ph.D. Student at Yonsei University"
   location         : "Seoul, KR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=MO1rI0kAAAAJ&hl=ko&oi=sra"
-  email            :
+  email            : "easy00@yonsei.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
