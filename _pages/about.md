@@ -53,7 +53,7 @@ IEEE Transactions on Neural Networks and Learning Systems, May, 2021. (Under Rev
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
 IEEE Transactions on Image Processing, Mar, 2020.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2104.02775">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/9102419">Paper</a>
 </span>  
 
 -----------
@@ -87,7 +87,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2104.02775">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2104.14085">Paper</a>
 </span>
 
 -----------
