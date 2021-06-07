@@ -9,18 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+About Me
+=====
+I am a Ph.D. student at Yonsei University, South Korea.
+I am broadly interested in computer vision & machine learning. 
+Mostly, I like human-centric research that interacts human and machine in general.
+I am particularly interested in machine perception understanding, multi-modal learning, meta-learning, causal reasoning, but not limited to.
+For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
+
+-----------
+
 News
 ======
-* 05/2021, I join Adobe Research for summer internship
-* 05/2021, Our paper on domain generalization was accepted to ICIP 2021
-* 03/2021, Our two papers were accepted to CVPR 2021
-* 07/2020, Our paper on video summarization was accepted to ECCV 2020
-* 05/2020, Our paper on facial expression recognition was accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">IEEE TIP</a>
-* 08/2019, Our paper related to emotion recognition was posted at <a href="https://techxplore.com/news/2019-08-deep-technique-context-aware-emotion-recognition.html"> TechXplore</a>
-* 01/2020, I will join Human Understanding and Empathy Group, Microsoft, Redmond, United States in this year for research internship. (Canceled by COVID-19)
-* 08/2019, Our team won the 3rd place in 'video summarization with action and scene recognition in untrimmed videos' task of CoVieW'19 (ICCV Workshop)
-* 07/2019, Our paper was accepted to ICCV 2019
-* 05/2019, Our paper was accepted to ICIP 2019
+**05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
+{: .notice}
+**05/2021**, Our paper on domain generalization was accepted to **ICIP** 2021.
+{: .notice}
+**03/2021**, Our two papers were accepted to **CVPR** 2021.
+{: .notice}
+**07/2020**, Our paper on video summarization was accepted to **ECCV** 2020.
+{: .notice}
+**05/2020**, Our paper on facial expression recognition was accepted to **IEEE TIP**.
+{: .notice}
+**01/2020**, I will join Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for research internship. (Canceled by COVID-19)
+{: .notice}
+
+-----------
 
 Publication 
 ======
@@ -149,9 +163,9 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
 <a class="page__taxonomy-item" rel="tag" href="files/icip17_Jiyoung_Lee.pdf">Paper</a>
 </span>   
 
-
+-----------
   
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: IEEE TIP, IEEE Access
 
