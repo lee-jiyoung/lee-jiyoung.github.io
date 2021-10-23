@@ -21,6 +21,8 @@ For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
 News
 ======
+**10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
+{: .notice}
 **05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
 {: .notice}
 **05/2021**, Our paper on domain generalization was accepted to **ICIP** 2021.
@@ -62,6 +64,15 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 ## International Conference
 (* equal contribution)
+
+> **Wide and Narrow: Video Prediction from Context and Motion**  
+Jaehoon Cho, **Jiyoung Lee**, Changjae Oh, Wonil Song, and Kwanghoon Sohn  
+British Machine Vision Conference (**BMVC**), Nov, 2021.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="/">Paper</a>
+</span>
+
+-----------
 
 > **Self-balanced Learning for Domain Generalization**  
 Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
