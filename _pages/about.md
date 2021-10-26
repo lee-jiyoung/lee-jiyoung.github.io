@@ -69,7 +69,7 @@ IEEE Transactions on Image Processing, Mar, 2020.
 Jaehoon Cho, **Jiyoung Lee**, Changjae Oh, Wonil Song, and Kwanghoon Sohn  
 British Machine Vision Conference (**BMVC**), Nov, 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2110.11586">Paper</a>
 </span>
 
 -----------
@@ -78,7 +78,7 @@ British Machine Vision Conference (**BMVC**), Nov, 2021.
 Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
 IEEE International Conference on Image Processing (**ICIP**), Sep, 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2108.13597">Paper</a>
 </span>
 
 -----------
