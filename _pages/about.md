@@ -195,5 +195,5 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
   
 Professional Service
 ======
-* Reviewer: IEEE TIP, IEEE Access
+* Reviewer: CVPR, IEEE TIP, IEEE Access
 
