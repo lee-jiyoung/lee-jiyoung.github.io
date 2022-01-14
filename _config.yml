@@ -84,7 +84,7 @@ author:
   avatar           : "profile2.png"
   bio              : "Research Scientist"
   location         : "Seoul, KR"
-  employer         : <a href="https://naver-career.gitbook.io/en/teams/clova-cic">"NAVER AI Lab"</a>
+  employer         : "NAVER AI Lab"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=MO1rI0kAAAAJ&hl=ko&oi=sra"
   email            : "lee.j@navercorp.com"
