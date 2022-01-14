@@ -72,6 +72,16 @@ IEEE Transactions on Image Processing, Mar, 2020.
 ## International Conference
 (* equal contribution)
 
+> **CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning**  
+Daniel McDuff, Yale Song, **Jiyoung Lee**, Vibhav Vineet, Sai Vemprala, Nicholas Alexander Gyde, Hadi Salman, Shuang Ma, Kwanghoon Sohn, and Ashish Kapoor   
+Causal Learning and Reasoning (**CLeaR**), Apr, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://openreview.net/forum?id=YWRhER626PX">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://causalcity.github.io/">Project</a>
+</span>
+
+-----------
+
 > **Wide and Narrow: Video Prediction from Context and Motion**  
 Jaehoon Cho, **Jiyoung Lee**, Changjae Oh, Wonil Song, and Kwanghoon Sohn  
 British Machine Vision Conference (**BMVC**), Nov, 2021.  
