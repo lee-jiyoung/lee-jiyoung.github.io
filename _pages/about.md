@@ -26,7 +26,7 @@ News
 ======
 **01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
 {: .notice}
-**12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>**.
+**12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic" style="color: green">NAVER AI Lab</a>**.
 {: .notice}
 **10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
 {: .notice}
