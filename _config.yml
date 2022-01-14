@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jiyoung Lee"
   avatar           : "profile2.png"
-  bio              : "Research Scientist at NAVER AI Lab"
+  bio              : "Research Scientist"
   location         : "Seoul, KR"
-  employer         :
+  employer         : "NAVER AI Lab"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=MO1rI0kAAAAJ&hl=ko&oi=sra"
   email            : "lee.j@navercorp.com"
