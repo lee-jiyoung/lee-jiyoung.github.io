@@ -11,16 +11,23 @@ redirect_from:
 
 About Me
 =====
-I am a Ph.D. student at Yonsei University, South Korea.
+I am a research scientist at NAVER AI Lab, South Korea.
 I am broadly interested in computer vision & machine learning. 
 Mostly, I like human-centric research that interacts human and machine in general.
 I am particularly interested in machine perception understanding, multi-modal learning, meta-learning, causal reasoning, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
+I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof.Kwanghoon Sohn</a>. 
+Previously I interned at Adobe Research in 2021, working with <a href="https://www.justinsalamon.com/">Justin Salamon</a> and <a href="https://dingzeyu.li/">Dingzeyu Li</a>, and collaborated with Microsoft Research, working with <a href="http://alumni.media.mit.edu/~djmcduff/">Daniel McDuff</a> in 2020. 
+
 -----------
 
 News
 ======
+**01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
+{: .notice}
+**12/2021**, I join the **NAVER AI Lab**.
+{: .notice}
 **10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
 {: .notice}
 **05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
