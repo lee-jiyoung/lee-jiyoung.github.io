@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 =====
-I am a research scientist at NAVER AI Lab, South Korea.
+I am a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>, South Korea.
 I am broadly interested in computer vision & machine learning. 
 Mostly, I like human-centric research that interacts human and machine in general.
 I am particularly interested in machine perception understanding, multi-modal learning, meta-learning, causal reasoning, but not limited to.
@@ -26,7 +26,7 @@ News
 ======
 **01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
 {: .notice}
-**12/2021**, I join the **NAVER AI Lab**.
+**12/2021**, I join in **<a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>**.
 {: .notice}
 **10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
 {: .notice}
