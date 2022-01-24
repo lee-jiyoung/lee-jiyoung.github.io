@@ -76,7 +76,7 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 > **Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**  
 Somi Jeong, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Apr, 2022.  
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), May, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <!-- <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2110.11586">Paper</a> -->
 </span>
