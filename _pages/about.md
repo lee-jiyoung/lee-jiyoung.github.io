@@ -24,6 +24,8 @@ Previously I interned at Adobe Research in 2021, working with <a href="https://w
 
 News
 ======
+**01/2022**, Our paper on image translation was accepted to **ICASSP** 2022.
+{: .notice}
 **01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
 {: .notice}
 **12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic" style="color: green">NAVER AI Lab</a>**.
@@ -71,6 +73,15 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 ## International Conference
 (* equal contribution)
+
+> **Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**  
+Somi Jeong, **Jiyoung Lee**, and Kwanghoon Sohn  
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Apr, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<!-- <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2110.11586">Paper</a> -->
+</span>
+
+-----------
 
 > **CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning**  
 Daniel McDuff, Yale Song, **Jiyoung Lee**, Vibhav Vineet, Sai Vemprala, Nicholas Alexander Gyde, Hadi Salman, Shuang Ma, Kwanghoon Sohn, and Ashish Kapoor   
@@ -195,5 +206,5 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
   
 Professional Service
 ======
-* Reviewer: CVPR, IEEE TIP, IEEE Access
+* Reviewer: CVPR 2022, IEEE TIP, IEEE Access
 
