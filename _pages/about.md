@@ -20,6 +20,9 @@ For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof.Kwanghoon Sohn</a>. 
 Previously I interned at Adobe Research in 2021, working with <a href="https://www.justinsalamon.com/">Justin Salamon</a> and <a href="https://dingzeyu.li/">Dingzeyu Li</a>, and collaborated with Microsoft Research, working with <a href="http://alumni.media.mit.edu/~djmcduff/">Daniel McDuff</a> in 2020. 
 
+**Internship at NAVER AI Lab**:
+I am always looking for interns to collaborate with! If you are interested in doing a cool multi-modal learning project, please send me an email introducing yourself and describe your research interests and experience.
+
 -----------
 
 News
