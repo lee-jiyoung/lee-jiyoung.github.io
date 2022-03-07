@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**03/2022**, Our two papers were accepted to **CVPR** 2022.
+{: .notice}
 **01/2022**, Our paper on image translation was accepted to **ICASSP** 2022.
 {: .notice}
 **01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
@@ -77,11 +79,29 @@ IEEE Transactions on Image Processing, Mar, 2020.
 ## International Conference
 (* equal contribution)
 
+> **Pin the Memory: Learning to Generalize Semantic Segmentation**  
+Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+</span>
+
+-----------
+
+> **Probabilistic Representations for Video Contrastive Learning**  
+Jungin Park, **Jiyoung Lee**, Ig-Jae Kim, and Kwanghoon Sohn  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+</span>
+
+-----------
+
 > **Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**  
 Somi Jeong, **Jiyoung Lee**, and Kwanghoon Sohn  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), May, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<!-- <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2110.11586">Paper</a> -->
+<!-- <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2202.02779">Preprint</a> -->
 </span>
 
 -----------
