@@ -101,7 +101,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 Somi Jeong, **Jiyoung Lee**, and Kwanghoon Sohn  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), May, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<!-- <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2202.02779">Preprint</a> -->
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2202.02779">Preprint</a>
 </span>
 
 -----------
