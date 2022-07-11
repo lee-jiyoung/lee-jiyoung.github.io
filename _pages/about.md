@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**07/2022**, Our paper on online stereo adaptation was accepted to **ECCV** 2022.
+{: .notice}
 **03/2022**, Our two papers were accepted to **CVPR** 2022.
 {: .notice}
 **01/2022**, Our paper on image translation was accepted to **ICASSP** 2022.
@@ -78,6 +80,15 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 ## International Conference
 (* equal contribution)
+
+> **PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation**  
+Kwonyoung Kim, Jungin Park, **Jiyoung Lee**, Dongbo Min, and Kwanghoon Sohn  
+European Conference on Computer Vision (**ECCV**), Oct, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+</span>
+
+-----------
 
 > **Pin the Memory: Learning to Generalize Semantic Segmentation**  
 Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
