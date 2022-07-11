@@ -240,5 +240,5 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
   
 Professional Service
 ======
-* Reviewer: ECCV 2022, CVPR 2022, IEEE TIP, IEEE Access
+* Reviewer: ECCV 2022, CVPR 2022, IEEE TPAMI, IEEE TIP, IEEE Access
 
