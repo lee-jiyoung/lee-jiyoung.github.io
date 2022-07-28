@@ -85,7 +85,7 @@ IEEE Transactions on Image Processing, Mar, 2020.
 Kwonyoung Kim, Jungin Park, **Jiyoung Lee**, Dongbo Min, and Kwanghoon Sohn  
 European Conference on Computer Vision (**ECCV**), Oct, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/pdf/2207.13340.pdf">Preprint</a>
 </span>
 
 -----------
@@ -94,7 +94,8 @@ European Conference on Computer Vision (**ECCV**), Oct, 2022.
 Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Pin_the_Memory_Learning_To_Generalize_Semantic_Segmentation_CVPR_2022_paper.pdf">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/Genie-Kim/PintheMemory">Project</a>
 </span>
 
 -----------
@@ -103,7 +104,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 Jungin Park, **Jiyoung Lee**, Ig-Jae Kim, and Kwanghoon Sohn  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Probabilistic_Representations_for_Video_Contrastive_Learning_CVPR_2022_paper.pdf">Paper</a>
 </span>
 
 -----------
