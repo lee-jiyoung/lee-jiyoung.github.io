@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**09/2022**, Our paper for evaluating multimodal generative models was accepted to **NeurIPS** 2022.
+{: .notice}
 **07/2022**, Our paper on online stereo adaptation was accepted to **ECCV** 2022.
 {: .notice}
 **03/2022**, Our two papers were accepted to **CVPR** 2022.
@@ -80,6 +82,16 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 ## International Conference
 (* equal contribution)
+
+> **Mutual Information Divergence: A Unified Metric for Multimodal Generative Models**  
+Jin-Hwa Kim, Yunji Kim, **Jiyoung Lee**, Kang Min Yoo, and Sang-Woo Lee  
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), Nov, 2022.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2205.13445">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/mid.metric">Code</a>
+</span>
+
+-----------
 
 > **PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation**  
 Kwonyoung Kim, Jungin Park, **Jiyoung Lee**, Dongbo Min, and Kwanghoon Sohn  
