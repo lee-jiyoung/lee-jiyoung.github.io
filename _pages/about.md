@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**10/2022**, Our paper on zero-shot video grounding was accepted to **WACV** 2023.
+{: .notice}
 **09/2022**, Our paper for evaluating multimodal generative models was accepted to **NeurIPS** 2022.
 {: .notice}
 **07/2022**, Our paper on online stereo adaptation was accepted to **ECCV** 2022.
@@ -82,6 +84,17 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 ## International Conference
 (* equal contribution)
+
+> **Language-free Training for Zero-shot Video Grounding**  
+Dahye Kim, JungIn Park, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
+IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), Jan, 2023.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="/">Code</a>
+</span>
+
+
+-----------
 
 > **Mutual Information Divergence: A Unified Metric for Multimodal Generative Models**  
 Jin-Hwa Kim, Yunji Kim, **Jiyoung Lee**, Kang Min Yoo, and Sang-Woo Lee  
