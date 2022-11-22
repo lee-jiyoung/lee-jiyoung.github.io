@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**11/2022**, Our paper on exemplar-based image translation was accepted to **AAAI** 2023.
+{: .notice}
 **10/2022**, Our paper on zero-shot video grounding was accepted to **WACV** 2023.
 {: .notice}
 **09/2022**, Our paper for evaluating multimodal generative models was accepted to **NeurIPS** 2022.
@@ -85,12 +87,25 @@ IEEE Transactions on Image Processing, Mar, 2020.
 ## International Conference
 (* equal contribution)
 
+
+> **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**  
+Junyoung Seo, Gyuseong Lee, Seokju Cho, **Jiyoung Lee**, Seungryong Kim
+Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb, 2023.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2209.11047">Preprint</a>
+  <a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/MIDMs/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/KU-CVLAB/MIDMs/">Code</a>
+</span>
+
+
+-----------
+
+
 > **Language-free Training for Zero-shot Video Grounding**  
 Dahye Kim, JungIn Park, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
 IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), Jan, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
-<a class="page__taxonomy-item" rel="tag" href="/">Code</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2210.12977">Preprint</a>
 </span>
 
 
