@@ -90,10 +90,11 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 > **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**  
 Junyoung Seo, Gyuseong Lee, Seokju Cho, **Jiyoung Lee**, Seungryong Kim
+
 Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2209.11047">Preprint</a>
-  <a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/MIDMs/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/MIDMs/">Project</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/KU-CVLAB/MIDMs/">Code</a>
 </span>
 
