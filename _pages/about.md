@@ -65,13 +65,15 @@ Publication
 
 ## International Journal
 
+> **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
+Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec, 2022. (Under Review).
+
+
 > **Learning Discriminative Action Tubelets for Weakly-Supervised Action Detection**  
 **Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn  
 Pattern Recognition, May, 2021. (Under Review).
 
-> **Recursive spatio-temporal graph relation networks for video summarization**  
-Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE Transactions on Neural Networks and Learning Systems, May, 2021. (Under Review).
 
 > **Multi-modal Recurrent Attention Networks for Facial Expression Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
