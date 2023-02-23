@@ -69,7 +69,7 @@ Publication
 (* equal contribution)
 
 > **Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech**  
-Jiyoung Lee, Joon Son Chung, Soo-Whan Chung
+Jiyoung Lee, Joon Son Chung, Soo-Whan Chung  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
