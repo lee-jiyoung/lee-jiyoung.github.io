@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**02/2023**, Our paper on text-to-speech was accepted to **ICASSP** 2023.
+{: .notice}
 **11/2022**, Our paper on exemplar-based image translation was accepted to **AAAI** 2023.
 {: .notice}
 **10/2022**, Our paper on zero-shot video grounding was accepted to **WACV** 2023.
@@ -63,31 +65,19 @@ News
 Publication 
 ======
 
-## International Journal
 
-> **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
-Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec, 2022. (Under Review).
+(* equal contribution)
 
-
-> **Learning Discriminative Action Tubelets for Weakly-Supervised Action Detection**  
-**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn  
-Pattern Recognition, May, 2021. (Under Review).
-
-
-> **Multi-modal Recurrent Attention Networks for Facial Expression Recognition**  
-**Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE Transactions on Image Processing, Mar, 2020.
+> **Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech**  
+Jiyoung Lee, Joon Son Chung, Soo-Whan Chung
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/9102419">Paper</a>
-</span>  
+<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="/">Code</a>
+</span>
 
 -----------
-
-
-
-## International Conference
-(* equal contribution)
 
 
 > **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**  
@@ -217,6 +207,16 @@ European Conference on Computer Vision (**ECCV**), Aug, 2020.
 
 -----------
 
+
+> **Multi-modal Recurrent Attention Networks for Facial Expression Recognition**  
+**Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
+IEEE Transactions on Image Processing, Mar, 2020.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/9102419">Paper</a>
+</span>  
+
+-----------
+
 > **Video Summarization by Learning Relationships between Action and Scene**  
 Jungin Park, **Jiyoung Lee**, Sangryul Jeon, and Kwanghoon Sohn  
 IEEE/CVF International Conference on Computer Vision Workshop (**ICCVW**), Oct, 2019. (**3rd Award**)  
@@ -281,7 +281,20 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
 
 -----------
   
+## Preprint
+
+> **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
+Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec, 2022. (Under Review).
+
+
+> **Learning Discriminative Action Tubelets for Weakly-Supervised Action Detection**  
+**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn  
+Pattern Recognition, May, 2021. (Under Review).
+
+
+  
 Professional Service
 ======
-* Reviewer: ICASSP 2023, ECCV 2022, CVPR 2022-2023, IEEE TPAMI, IEEE TIP, IEEE Access
+* Reviewer: ICML 2023, ICASSP 2023, ECCV 2022, CVPR 2022-2023, IEEE TPAMI, IEEE TIP, IEEE Access
 
