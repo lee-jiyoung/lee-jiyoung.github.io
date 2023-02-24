@@ -73,7 +73,7 @@ Jiyoung Lee, Joon Son Chung, Soo-Whan Chung
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
-<a class="page__taxonomy-item" rel="tag" href="/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="https://facetts.github.io">Project</a>
 <a class="page__taxonomy-item" rel="tag" href="/">Code</a>
 </span>
 
