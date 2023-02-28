@@ -27,6 +27,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**02/2023**, Our paper on PETL for video domain was accepted to **CVPR** 2023.
+{: .notice}
 **02/2023**, Our paper on text-to-speech was accepted to **ICASSP** 2023.
 {: .notice}
 **11/2022**, Our paper on exemplar-based image translation was accepted to **AAAI** 2023.
@@ -45,6 +47,10 @@ News
 {: .notice}
 **12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic" style="color: green">NAVER AI Lab</a>**.
 {: .notice}
+
+<details>
+<summary>more</summary>
+  
 **10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
 {: .notice}
 **05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
@@ -59,7 +65,7 @@ News
 {: .notice}
 **01/2020**, I will join Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for research internship. (Canceled by COVID-19)
 {: .notice}
-
+</details>
 -----------
 
 Publication 
@@ -68,20 +74,30 @@ Publication
 
 (* equal contribution)
 
-> **Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech**  
-Jiyoung Lee, Joon Son Chung, Soo-Whan Chung  
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
+
+> **Dual-path Adaptation from Image to Video Transformers**  
+JungIn Park, **Jiyoung Lee**, and Kwanghoon Sohn  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+</span>
+
+-----------
+
+> **Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech**  
+**Jiyoung Lee**, Joon Son Chung, and Soo-Whan Chung  
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2302.13700">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://facetts.github.io">Project</a>
-<a class="page__taxonomy-item" rel="tag" href="/">Code</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/facetts">Code</a>
 </span>
 
 -----------
 
 
 > **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**  
-Junyoung Seo, Gyuseong Lee, Seokju Cho, **Jiyoung Lee**, Seungryong Kim  
+Junyoung Seo, Gyuseong Lee, Seokju Cho, **Jiyoung Lee**, and Seungryong Kim  
 Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2209.11047">Preprint</a>
