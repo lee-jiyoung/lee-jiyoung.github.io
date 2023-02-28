@@ -49,7 +49,8 @@ News
 {: .notice}
 
 <details>
-<summary>more</summary>
+<summary>older news</summary>
+<div markdown="1">
   
 **10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
 {: .notice}
@@ -65,6 +66,8 @@ News
 {: .notice}
 **01/2020**, I will join Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for research internship. (Canceled by COVID-19)
 {: .notice}
+
+  </div>
 </details>
 -----------
 
