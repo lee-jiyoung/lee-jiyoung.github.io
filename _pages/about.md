@@ -315,5 +315,5 @@ Pattern Recognition, May, 2021. (Under Review).
   
 Professional Service
 ======
-* Reviewer: ICML 2023, ICASSP 2023, ECCV 2022, CVPR 2022-2023, IEEE TPAMI, IEEE TIP, IEEE Access
+* Reviewer: CVPR 2022-2023, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
 
