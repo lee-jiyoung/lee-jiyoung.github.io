@@ -27,23 +27,25 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
-**02/2023**, Our paper on PETL for video domain was accepted to **CVPR** 2023.
+**04/2023**, 1 paper is accepted at **CVPR Workshop** 2023.
 {: .notice}
-**02/2023**, Our paper on text-to-speech was accepted to **ICASSP** 2023.
+**02/2023**, 1 paper is accepted at **CVPR** 2023.
 {: .notice}
-**11/2022**, Our paper on exemplar-based image translation was accepted to **AAAI** 2023.
+**02/2023**, 1 paper is accepted at **ICASSP** 2023.
 {: .notice}
-**10/2022**, Our paper on zero-shot video grounding was accepted to **WACV** 2023.
+**11/2022**, 1 paper is accepted at **AAAI** 2023.
 {: .notice}
-**09/2022**, Our paper for evaluating multimodal generative models was accepted to **NeurIPS** 2022.
+**10/2022**, 1 paper is accepted at **WACV** 2023.
 {: .notice}
-**07/2022**, Our paper on online stereo adaptation was accepted to **ECCV** 2022.
+**09/2022**, 1 paper is accepted at **NeurIPS** 2022.
 {: .notice}
-**03/2022**, Our two papers were accepted to **CVPR** 2022.
+**07/2022**, 1 paper is accepted at **ECCV** 2022.
 {: .notice}
-**01/2022**, Our paper on image translation was accepted to **ICASSP** 2022.
+**03/2022**, 2 papers are accepted at **CVPR** 2022.
 {: .notice}
-**01/2022**, Our paper on causal discovery was accepted to **CLeaR** 2022.
+**01/2022**, 1 paper is accepted at **ICASSP** 2022.
+{: .notice}
+**01/2022**, 1 paper is accepted at **CLeaR** 2022.
 {: .notice}
 **12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic" style="color: green">NAVER AI Lab</a>**.
 {: .notice}
@@ -52,17 +54,17 @@ News
 <summary>older news</summary>
 <div markdown="1">
   
-**10/2021**, Our paper on video prediction was accepted to **BMVC** 2021.
+**10/2021**, 1 paper is accepted at **BMVC** 2021.
 {: .notice}
 **05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
 {: .notice}
-**05/2021**, Our paper on domain generalization was accepted to **ICIP** 2021.
+**05/2021**, 1 paper is accepted at **ICIP** 2021.
 {: .notice}
-**03/2021**, Our two papers were accepted to **CVPR** 2021.
+**03/2021**, 2 papers are accepted at **CVPR** 2021.
 {: .notice}
-**07/2020**, Our paper on video summarization was accepted to **ECCV** 2020.
+**07/2020**, 1 paper is accepted at **ECCV** 2020.
 {: .notice}
-**05/2020**, Our paper on facial expression recognition was accepted to **IEEE TIP**.
+**05/2020**, 1 paper is accepted at **IEEE TIP**.
 {: .notice}
 **01/2020**, I will join Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for research internship. (Canceled by COVID-19)
 {: .notice}
@@ -77,6 +79,15 @@ Publication
 
 (* equal contribution)
 
+> **Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild**  
+Gyeongsik Moon, Hongsuk Choi, Sanghyuk Chun, **Jiyoung Lee**, and Sangdoo Yun  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun, 2023.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2304.04875">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="[https://arxiv.org/abs/2304.04875](https://github.com/mks0601/NeuralAnnot_RELEASE)">Code</a>
+</span>
+
+-----------
 
 > **Dual-path Adaptation from Image to Video Transformers**  
 JungIn Park<sup>*</sup>, **Jiyoung Lee**<sup>*</sup>, and Kwanghoon Sohn  
