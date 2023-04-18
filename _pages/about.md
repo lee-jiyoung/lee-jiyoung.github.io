@@ -93,7 +93,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun,
 JungIn Park<sup>*</sup>, **Jiyoung Lee**<sup>*</sup>, and Kwanghoon Sohn  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2303.09857">Preprint</a>
+  <a class="page__taxonomy-item" rel="tag" href="https://github.com/park-jungin/DualPath">Code</a>
 </span>
 
 -----------
