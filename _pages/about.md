@@ -12,9 +12,8 @@ redirect_from:
 About Me
 =====
 I am a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>, South Korea.
-I am broadly interested in computer vision & machine learning. 
-Mostly, I like human-centric research that interacts human and machine in general.
-I am particularly interested in machine perception understanding, multi-modal learning, meta-learning, causal reasoning, but not limited to.
+I am broadly interested in multimodal learning & computer vision. 
+Mostly, I like human-centric research that interacts with humans and machines in general. I am particularly interested in video understanding, vision-language model, generative modeling, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
 I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof.Kwanghoon Sohn</a>. 
@@ -27,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**04/2023**, 1 paper is accepted at **ICML** 2023.
+{: .notice}
 **04/2023**, 1 paper is accepted at **CVPR Workshop** 2023.
 {: .notice}
 **02/2023**, 1 paper is accepted at **CVPR** 2023.
@@ -78,6 +79,15 @@ Publication
 
 
 (* equal contribution)
+
+> **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  
+Hwan Heo, Taekyung Kim, **Jiyoung Lee**, Jaewon Lee, Soohyun Kim, Hyunwoo J Kim, and Jin-Hwa Kim 
+International Conference on Machine Learning (**ICML**), Jul, 2023.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2302.01571">Preprint</a>
+</span>
+
+-----------
 
 > **Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild**  
 Gyeongsik Moon, Hongsuk Choi, Sanghyuk Chun, **Jiyoung Lee**, and Sangdoo Yun  
