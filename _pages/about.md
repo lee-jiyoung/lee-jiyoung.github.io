@@ -81,7 +81,7 @@ Publication
 (* equal contribution)
 
 > **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  
-Hwan Heo, Taekyung Kim, **Jiyoung Lee**, Jaewon Lee, Soohyun Kim, Hyunwoo J Kim, and Jin-Hwa Kim 
+Hwan Heo, Taekyung Kim, **Jiyoung Lee**, Jaewon Lee, Soohyun Kim, Hyunwoo J Kim, and Jin-Hwa Kim  
 International Conference on Machine Learning (**ICML**), Jul, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2302.01571">Preprint</a>
