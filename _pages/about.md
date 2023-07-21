@@ -83,7 +83,7 @@ Publication
 (* equal contribution)
 
 > **Dense Text-to-Image Generation with Attention Modulation**  
-Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu
+Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu  
 IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
