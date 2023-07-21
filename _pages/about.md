@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**07/2023**, 2 papers are accepted at **ICCV** 2023.
+{: .notice}
 **04/2023**, 1 paper is accepted at **ICML** 2023.
 {: .notice}
 **04/2023**, 1 paper is accepted at **CVPR Workshop** 2023.
@@ -79,6 +81,24 @@ Publication
 
 
 (* equal contribution)
+
+> **Dense Text-to-Image Generation with Attention Modulation**  
+Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu
+IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+</span>
+
+-----------
+
+> **Contextual, Discriminative, and Unbiased Compositional Zero-Shot Learning**  
+Hanjae Kim, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
+IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+</span>
+
+-----------
 
 > **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  
 Hwan Heo, Taekyung Kim, **Jiyoung Lee**, Jaewon Lee, Soohyun Kim, Hyunwoo J Kim, and Jin-Hwa Kim  
