@@ -16,7 +16,7 @@ I am broadly interested in multimodal learning & computer vision.
 Mostly, I like human-centric research that interacts with humans and machines in general. I am particularly interested in video understanding, vision-language model, generative modeling, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
-I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof.Kwanghoon Sohn</a>. 
+I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof. Kwanghoon Sohn</a>. 
 Previously I interned at Adobe Research in 2021, working with <a href="https://www.justinsalamon.com/">Justin Salamon</a> and <a href="https://dingzeyu.li/">Dingzeyu Li</a>, and collaborated with Microsoft Research, working with <a href="http://alumni.media.mit.edu/~djmcduff/">Daniel McDuff</a> in 2020. 
 
 **Internship at NAVER AI Lab**:
@@ -358,5 +358,5 @@ Pattern Recognition, May, 2021. (Under Review).
   
 Professional Service
 ======
-* Reviewer: ICCV 2023, CVPR 2022-2023, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
+* Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2022-2023, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
 
