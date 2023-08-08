@@ -40,6 +40,11 @@ News
 {: .notice}
 **10/2022**, 1 paper is accepted at **WACV** 2023.
 {: .notice}
+
+<details>
+<summary>older news</summary>
+<div markdown="1">
+  
 **09/2022**, 1 paper is accepted at **NeurIPS** 2022.
 {: .notice}
 **07/2022**, 1 paper is accepted at **ECCV** 2022.
@@ -53,10 +58,6 @@ News
 **12/2021**, I join the **<a href="https://naver-career.gitbook.io/en/teams/clova-cic" style="color: green">NAVER AI Lab</a>**.
 {: .notice}
 
-<details>
-<summary>older news</summary>
-<div markdown="1">
-  
 **10/2021**, 1 paper is accepted at **BMVC** 2021.
 {: .notice}
 **05/2021**, I start a remote internship in the Creative Intelligence Lab at **Adobe Research**.
@@ -91,7 +92,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 
 -----------
 
-> **Contextual, Discriminative, and Unbiased Compositional Zero-Shot Learning**  
+> **Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**  
 Hanjae Kim, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
 IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
