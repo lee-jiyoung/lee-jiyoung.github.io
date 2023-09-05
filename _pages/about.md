@@ -87,7 +87,8 @@ Publication
 Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu  
 IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.12964">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/DenseDiffusion">Code</a>
 </span>
 
 -----------
@@ -96,7 +97,8 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 Hanjae Kim, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
 IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.04016">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/HanjaeKim98/CoT">Code</a>
 </span>
 
 -----------
@@ -115,7 +117,7 @@ Gyeongsik Moon, Hongsuk Choi, Sanghyuk Chun, **Jiyoung Lee**, and Sangdoo Yun
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun, 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2304.04875">Preprint</a>
-<a class="page__taxonomy-item" rel="tag" href="[https://arxiv.org/abs/2304.04875](https://github.com/mks0601/NeuralAnnot_RELEASE)">Code</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/mks0601/NeuralAnnot_RELEASE">Code</a>
 </span>
 
 -----------
