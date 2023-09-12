@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
+{: .notice}
 **07/2023**, 2 papers are accepted at **ICCV** 2023.
 {: .notice}
 **04/2023**, 1 paper is accepted at **ICML** 2023.
