@@ -26,7 +26,7 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
-**09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
+**09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
 {: .notice}
 **07/2023**, 2 papers are accepted at **ICCV** 2023.
 {: .notice}
@@ -363,4 +363,7 @@ Pattern Recognition, May, 2021. (Under Review).
 Professional Service
 ======
 * Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2022-2023, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
+
+* Lecture
+  * <a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>, Seoul National University, Fall 2023 (AI773).
 
