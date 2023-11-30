@@ -91,6 +91,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.12964">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/DenseDiffusion">Code</a>
+<a class="page__taxonomy-item" rel="tag" href="https://huggingface.co/spaces/naver-ai/DenseDiffusion">Demo</a>
 </span>
 
 -----------
