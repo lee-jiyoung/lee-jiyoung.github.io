@@ -13,14 +13,14 @@ About Me
 =====
 I am a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>, South Korea.
 I am broadly interested in multimodal learning & computer vision. 
-Mostly, I like human-centric research that interacts with humans and machines in general. I am particularly interested in video understanding, vision-language model, generative modeling, but not limited to.
+Mostly, I am interested in video understanding, audio-visual/vision-language models, generative modeling, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
 I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof. Kwanghoon Sohn</a>. 
 Previously I interned at Adobe Research in 2021, working with <a href="https://www.justinsalamon.com/">Justin Salamon</a> and <a href="https://dingzeyu.li/">Dingzeyu Li</a>, and collaborated with Microsoft Research, working with <a href="http://alumni.media.mit.edu/~djmcduff/">Daniel McDuff</a> in 2020. 
 
 **Internship at NAVER AI Lab**:
-I am always looking for interns to collaborate with! If you are interested in doing a cool multimodal learning project, please send me an email introducing yourself and describe your research interests and experience.
+I am always looking for interns to collaborate with! If you are interested in doing a cool multimodal learning project, please send me an email introducing yourself and describing your research interests and experience.
 
 -----------
 
@@ -363,7 +363,7 @@ Pattern Recognition, May, 2021. (Under Review).
   
 Professional Service
 ======
-* Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2022-2023, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
+* Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
 
 * Lecture
   * <a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>, Seoul National University, Fall 2023 (AI773).
