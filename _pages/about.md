@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**01/2024**, 2 papers are accepted at **ICLR** 2024.
+{: .notice}
 **09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
 {: .notice}
 **07/2023**, 2 papers are accepted at **ICCV** 2023.
