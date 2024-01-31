@@ -93,7 +93,6 @@ International Conference on Learning Representations(**ICLR**), May 2024.
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/KU-CVLAB/3DFuse">Code</a>
 <a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/3DFuse/">Project</a>
 <a class="page__taxonomy-item" rel="tag" href="https://huggingface.co/spaces/jyseo/3DFuse">Demo</a>
-
 </span>
 
 -----------
