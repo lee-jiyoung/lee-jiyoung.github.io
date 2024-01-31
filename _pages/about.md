@@ -40,15 +40,14 @@ News
 {: .notice}
 **02/2023**, 1 paper is accepted at **ICASSP** 2023.
 {: .notice}
-**11/2022**, 1 paper is accepted at **AAAI** 2023.
-{: .notice}
-**10/2022**, 1 paper is accepted at **WACV** 2023.
-{: .notice}
 
 <details>
 <summary>older news</summary>
 <div markdown="1">
-  
+**11/2022**, 1 paper is accepted at **AAAI** 2023.
+{: .notice}
+**10/2022**, 1 paper is accepted at **WACV** 2023.
+{: .notice}
 **09/2022**, 1 paper is accepted at **NeurIPS** 2022.
 {: .notice}
 **07/2022**, 1 paper is accepted at **ECCV** 2022.
@@ -84,12 +83,33 @@ News
 Publication 
 ======
 
+$^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
-(* equal contribution)
+> **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**  
+Junyoung Seo<sup>$\star$</sup>, Wooseok Jang<sup>$\star$</sup>, Min-Seop Kwak<sup>$\star$</sup>, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim<sup>$\dagger$</sup>, **Jiyoung Lee**<sup>$\dagger$</sup>, and Seungryong Kim<sup>$\dagger$</sup>  
+International Conference on Learning Representations(**ICLR**), May 2024.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2303.07937">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/KU-CVLAB/3DFuse">Code</a>
+<a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/3DFuse/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="https://huggingface.co/spaces/jyseo/3DFuse">Demo</a>
+
+</span>
+
+-----------
+
+> **Bridging Vision and Language Spaces with Assignment Prediction**  
+Jungin Park, **Jiyoung Lee**<sup>$\dagger$</sup>, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+International Conference on Learning Representations(**ICLR**), May 2024.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+</span>
+
+-----------
 
 > **Dense Text-to-Image Generation with Attention Modulation**  
 Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
+IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.12964">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/DenseDiffusion">Code</a>
@@ -100,7 +120,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 
 > **Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**  
 Hanjae Kim, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
+IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.04016">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/HanjaeKim98/CoT">Code</a>
@@ -110,7 +130,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2023.
 
 > **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  
 Hwan Heo, Taekyung Kim, **Jiyoung Lee**, Jaewon Lee, Soohyun Kim, Hyunwoo J Kim, and Jin-Hwa Kim  
-International Conference on Machine Learning (**ICML**), Jul, 2023.  
+International Conference on Machine Learning (**ICML**), Jul 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2302.01571">Preprint</a>
 </span>
@@ -119,7 +139,7 @@ International Conference on Machine Learning (**ICML**), Jul, 2023.
 
 > **Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild**  
 Gyeongsik Moon, Hongsuk Choi, Sanghyuk Chun, **Jiyoung Lee**, and Sangdoo Yun  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun, 2023.  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2304.04875">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/mks0601/NeuralAnnot_RELEASE">Code</a>
@@ -128,8 +148,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun,
 -----------
 
 > **Dual-path Adaptation from Image to Video Transformers**  
-JungIn Park<sup>*</sup>, **Jiyoung Lee**<sup>*</sup>, and Kwanghoon Sohn  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2023.  
+JungIn Park<sup>$\star$</sup>, **Jiyoung Lee**<sup>$\star$</sup>, and Kwanghoon Sohn  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2303.09857">Preprint</a>
   <a class="page__taxonomy-item" rel="tag" href="https://github.com/park-jungin/DualPath">Code</a>
@@ -139,7 +159,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 
 > **Imaginary Voice: Face-styled Diffusion Model for Text-to-Speech**  
 **Jiyoung Lee**, Joon Son Chung, and Soo-Whan Chung  
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun, 2023. 
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Jun 2023. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2302.13700">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://facetts.github.io">Project</a>
@@ -151,7 +171,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 
 > **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**  
 Junyoung Seo, Gyuseong Lee, Seokju Cho, **Jiyoung Lee**, and Seungryong Kim  
-Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb, 2023.  
+Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2209.11047">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://ku-cvlab.github.io/MIDMs/">Project</a>
@@ -164,7 +184,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Feb, 2023.
 
 > **Language-free Training for Zero-shot Video Grounding**  
 Dahye Kim, JungIn Park, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
-IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), Jan, 2023.  
+IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), Jan 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2210.12977">Preprint</a>
 </span>
@@ -174,7 +194,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), Jan, 2
 
 > **Mutual Information Divergence: A Unified Metric for Multimodal Generative Models**  
 Jin-Hwa Kim, Yunji Kim, **Jiyoung Lee**, Kang Min Yoo, and Sang-Woo Lee  
-Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), Nov, 2022.  
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), Nov 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2205.13445">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/mid.metric">Code</a>
@@ -184,7 +204,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 
 > **PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation**  
 Kwonyoung Kim, Jungin Park, **Jiyoung Lee**, Dongbo Min, and Kwanghoon Sohn  
-European Conference on Computer Vision (**ECCV**), Oct, 2022.  
+European Conference on Computer Vision (**ECCV**), Oct 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/pdf/2207.13340.pdf">Preprint</a>
 </span>
@@ -192,8 +212,8 @@ European Conference on Computer Vision (**ECCV**), Oct, 2022.
 -----------
 
 > **Pin the Memory: Learning to Generalize Semantic Segmentation**  
-Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
+Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min<sup>$\dagger$</sup>, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Pin_the_Memory_Learning_To_Generalize_Semantic_Segmentation_CVPR_2022_paper.pdf">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/Genie-Kim/PintheMemory">Project</a>
@@ -203,7 +223,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 
 > **Probabilistic Representations for Video Contrastive Learning**  
 Jungin Park, **Jiyoung Lee**, Ig-Jae Kim, and Kwanghoon Sohn  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2022.  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Probabilistic_Representations_for_Video_Contrastive_Learning_CVPR_2022_paper.pdf">Paper</a>
 </span>
@@ -212,7 +232,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 
 > **Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**  
 Somi Jeong, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), May, 2022.  
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), May 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2202.02779">Preprint</a>
 </span>
@@ -221,7 +241,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 
 > **CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning**  
 Daniel McDuff, Yale Song, **Jiyoung Lee**, Vibhav Vineet, Sai Vemprala, Nicholas Alexander Gyde, Hadi Salman, Shuang Ma, Kwanghoon Sohn, and Ashish Kapoor   
-Causal Learning and Reasoning (**CLeaR**), Apr, 2022.  
+Causal Learning and Reasoning (**CLeaR**), Apr 2022.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://openreview.net/forum?id=YWRhER626PX">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://causalcity.github.io/">Project</a>
@@ -231,7 +251,7 @@ Causal Learning and Reasoning (**CLeaR**), Apr, 2022.
 
 > **Wide and Narrow: Video Prediction from Context and Motion**  
 Jaehoon Cho, **Jiyoung Lee**, Changjae Oh, Wonil Song, and Kwanghoon Sohn  
-British Machine Vision Conference (**BMVC**), Nov, 2021.  
+British Machine Vision Conference (**BMVC**), Nov 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2110.11586">Paper</a>
 </span>
@@ -240,7 +260,7 @@ British Machine Vision Conference (**BMVC**), Nov, 2021.
 
 > **Self-balanced Learning for Domain Generalization**  
 Jin Kim, **Jiyoung Lee**, Jungin Park, Dongbo Min, and Kwanghoon Sohn  
-IEEE International Conference on Image Processing (**ICIP**), Sep, 2021.  
+IEEE International Conference on Image Processing (**ICIP**), Sep 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2108.13597">Paper</a>
 </span>
@@ -250,7 +270,7 @@ IEEE International Conference on Image Processing (**ICIP**), Sep, 2021.
 
 > **Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation**  
 **Jiyoung Lee**<sup>*</sup>, Soo-Whan Chung<sup>*</sup>, Sunok Kim, Hong-Goo Kang, and Kwanghoon Sohn  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2021.  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2104.02775">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://caffnet.github.io/">Project</a>
@@ -260,7 +280,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 
 > **Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering**  
 Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 2021.  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2021.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2104.14085">Paper</a>
 </span>
@@ -269,7 +289,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun, 
 
 > **SumGraph: Video summarization via Recursive Graph Modeling**  
 Jungin Park<sup>*</sup>, **Jiyoung Lee**<sup>*</sup>, Ig-Jae Kim, and Kwanghoon Sohn  
-European Conference on Computer Vision (**ECCV**), Aug, 2020.  
+European Conference on Computer Vision (**ECCV**), Aug 2020.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2007.08809">Paper</a>
 </span>  
@@ -279,7 +299,7 @@ European Conference on Computer Vision (**ECCV**), Aug, 2020.
 
 > **Multi-modal Recurrent Attention Networks for Facial Expression Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE Transactions on Image Processing, Mar, 2020.
+IEEE Transactions on Image Processing, Mar 2020.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/9102419">Paper</a>
 </span>  
@@ -288,7 +308,7 @@ IEEE Transactions on Image Processing, Mar, 2020.
 
 > **Video Summarization by Learning Relationships between Action and Scene**  
 Jungin Park, **Jiyoung Lee**, Sangryul Jeon, and Kwanghoon Sohn  
-IEEE/CVF International Conference on Computer Vision Workshop (**ICCVW**), Oct, 2019. (**3rd Award**)  
+IEEE/CVF International Conference on Computer Vision Workshop (**ICCVW**), Oct 2019. (**3rd Award**)  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/iccvw19_Jungin_Park.pdf">Paper</a>
 </span>  
@@ -297,7 +317,7 @@ IEEE/CVF International Conference on Computer Vision Workshop (**ICCVW**), Oct, 
 
 > **Context-Aware Emotion Recognition Networks**  
 **Jiyoung Lee**, Seungryong Kim, Sunok Kim, Jungin Park, and Kwanghoon Sohn  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2019.  
+IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2019.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://caer-dataset.github.io/">Project</a>
@@ -307,7 +327,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct, 2019.
 
 > **Graph Regularization Network With Semantic Affinity for Weakly-supervised Temporal Action Localization**  
 Jungin Park, **Jiyoung Lee**, Sangryul Jeon, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Image Processing(**ICIP**), Sep, 2019.  
+IEEE International Conference on Image Processing(**ICIP**), Sep 2019.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icip19_Jungin_Park.pdf">Paper</a>
 </span>   
@@ -316,7 +336,7 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2019.
 
 > **Audio-Visual Attention Networks for Emotion Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-ACM Multimedia Workshop(**MMW**), Oct, 2018.  
+ACM Multimedia Workshop(**MMW**), Oct 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/acmmm18_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -325,7 +345,7 @@ ACM Multimedia Workshop(**MMW**), Oct, 2018.
 
 > **Learning to Detect, Associate, and Recognize Human Actions and Surrounding Scenes in Untrimmed Videos**  
 Jungin Park, Sangryul Jeon, Seungryong Kim, **Jiyoung Lee**, Sunok Kim, and Kwanghoon Sohn  
-ACM Multimedia Workshop(**MMW**), Oct, 2018.  
+ACM Multimedia Workshop(**MMW**), Oct 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/acmmmw18_Jungin_Park.pdf">Paper</a>
 </span>   
@@ -334,7 +354,7 @@ ACM Multimedia Workshop(**MMW**), Oct, 2018.
 
 > **Spatiotemporal Attention Based Deep Neural Networks for Emotion Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Acoustics, Speech and Signal Processing(**ICASSP**), Apr, 2018.  
+IEEE International Conference on Acoustics, Speech and Signal Processing(**ICASSP**), Apr 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icassp18_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -343,7 +363,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing(**ICASS
 
 > **Automatic 2D-to-3D Conversion using Multi-scale Deep Neural Network**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.  
+IEEE International Conference on Image Processing(**ICIP**), Sep 2017.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icip17_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -352,14 +372,19 @@ IEEE International Conference on Image Processing(**ICIP**), Sep, 2017.
   
 ## Preprint
 
+> **Prototype-guided Attention Distillation for Discriminative Person Search**  
+Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024. (Under Review).
+
+
 > **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
-Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec, 2022. (Under Review).
+Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec 2022. (Under Review).
 
 
 > **Learning Discriminative Action Tubelets for Weakly-Supervised Action Detection**  
-**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn  
-Pattern Recognition, May, 2021. (Under Review).
+**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+Pattern Recognition, May 2021. (Under Review).
 
 
   
