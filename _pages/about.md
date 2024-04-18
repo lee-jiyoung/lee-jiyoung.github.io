@@ -101,7 +101,8 @@ International Conference on Learning Representations(**ICLR**), May 2024.
 Jungin Park, **Jiyoung Lee**<sup>$\dagger$</sup>, and Kwanghoon Sohn<sup>$\dagger$</sup>  
 International Conference on Learning Representations(**ICLR**), May 2024.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2404.09632">Preprint</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/park-jungin/vlap">Code</a>
 </span>
 
 -----------
@@ -389,7 +390,7 @@ Pattern Recognition, May 2021. (Under Review).
   
 Professional Service
 ======
-* Reviewer: SIGGRAPH 2024, NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICML 2023, ICASSP 2023, ECCV 2022, IEEE TPAMI, IEEE TIP, IEEE Access
+* Reviewer: SIGGRAPH 2024, NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICML 2023-2024, ICASSP 2023, ECCV 2022-2024, IEEE TPAMI, IEEE TIP, IEEE Access
 
 * Lecture
   * <a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>, Seoul National University, Fall 2023 (AI773).
