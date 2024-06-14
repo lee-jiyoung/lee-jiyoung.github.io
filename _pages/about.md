@@ -73,7 +73,7 @@ News
 {: .notice}
 **05/2020**, 1 paper is accepted at **IEEE TIP**.
 {: .notice}
-**01/2020**, I will join Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for research internship. (Canceled by COVID-19)
+**01/2020**, I will join the Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for a research internship. (Canceled by COVID-19)
 {: .notice}
 
   </div>
