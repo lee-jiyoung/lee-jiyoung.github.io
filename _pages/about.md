@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**06/2024**, 1 paper is accepted in **Pattern Recognition**.
+{: .notice}
 **01/2024**, 2 papers are accepted at **ICLR** 2024.
 {: .notice}
 **09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
@@ -71,7 +73,7 @@ News
 {: .notice}
 **07/2020**, 1 paper is accepted at **ECCV** 2020.
 {: .notice}
-**05/2020**, 1 paper is accepted at **IEEE TIP**.
+**05/2020**, 1 paper is accepted in **IEEE TIP**.
 {: .notice}
 **01/2020**, I will join the Human Understanding and Empathy Group, **Microsoft Research**, Redmond, United States in this year for a research internship. (Canceled by COVID-19)
 {: .notice}
@@ -84,6 +86,10 @@ Publication
 ======
 
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
+
+> **Discriminative Action Tubelet Detector for Weakly-supervised Action Detection**  
+**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+Pattern Recognition, Jun 2024. (Accepted).
 
 > **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**  
 Junyoung Seo<sup>$\star$</sup>, Wooseok Jang<sup>$\star$</sup>, Min-Seop Kwak<sup>$\star$</sup>, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim<sup>$\dagger$</sup>, **Jiyoung Lee**<sup>$\dagger$</sup>, and Seungryong Kim<sup>$\dagger$</sup>  
@@ -382,9 +388,7 @@ Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec 2022. (Under Review).
 
 
-> **Learning Discriminative Action Tubelets for Weakly-Supervised Action Detection**  
-**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-Pattern Recognition, May 2021. (Under Review).
+
 
 
   
