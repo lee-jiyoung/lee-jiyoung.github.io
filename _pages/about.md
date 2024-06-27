@@ -88,8 +88,13 @@ Publication
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
 > **Discriminative Action Tubelet Detector for Weakly-supervised Action Detection**  
-**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-Pattern Recognition, Jun 2024. (Accepted).
+**Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>   
+Pattern Recognition, Jun 2024. (Accepted). 
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://www.sciencedirect.com/science/article/pii/S0031320324004552">Paper</a>
+</span>
+
+-----------
 
 > **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**  
 Junyoung Seo<sup>$\star$</sup>, Wooseok Jang<sup>$\star$</sup>, Min-Seop Kwak<sup>$\star$</sup>, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim<sup>$\dagger$</sup>, **Jiyoung Lee**<sup>$\dagger$</sup>, and Seungryong Kim<sup>$\dagger$</sup>  
