@@ -89,7 +89,7 @@ $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
 > **Read, Watch and Scream! Sound Generation from Text and Video**  
 Yujin Jeong, Yunji Kim, Sanghyuk Chun, **Jiyoung Lee**<sup>$\dagger$</sup>   
-Preprint, Jun 2024. 
+Preprint, Jul 2024. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2407.05551">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://naver-ai.github.io/rewas/">Project</a>
