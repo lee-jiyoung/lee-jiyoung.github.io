@@ -87,6 +87,17 @@ Publication
 
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
+> **Read, Watch and Scream! Sound Generation from Text and Video**  
+Yujin Jeong, Yunji Kim, Sanghyuk Chun, **Jiyoung Lee**<sup>$\dagger$</sup>   
+Preprint, Jun 2024. 
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2407.05551">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://naver-ai.github.io/rewas/">Project</a>
+<a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/rewas">Code</a>
+</span>
+
+-----------
+
 > **Discriminative Action Tubelet Detector for Weakly-supervised Action Detection**  
 **Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>   
 Pattern Recognition, Jun 2024. (Accepted). 
@@ -390,7 +401,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024. (Under
 
 > **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
 Jungin Park, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Dec 2022. (Under Review).
+International Journal of Computer Vision, Feb 2024. (Under Review).
 
 
 
