@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**09/2024**, 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
+{: .notice}
 **06/2024**, 1 paper is accepted in **Pattern Recognition**.
 {: .notice}
 **01/2024**, 2 papers are accepted at **ICLR** 2024.
@@ -87,6 +89,14 @@ Publication
 
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
+> **Prototype-guided Attention Distillation for Discriminative Person Search**  
+Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="/">Paper</a>
+</span>
+
+
 > **Read, Watch and Scream! Sound Generation from Text and Video**  
 Yujin Jeong, Yunji Kim, Sanghyuk Chun, **Jiyoung Lee**<sup>$\dagger$</sup>   
 Preprint, Jul 2024. 
@@ -100,7 +110,7 @@ Preprint, Jul 2024.
 
 > **Discriminative Action Tubelet Detector for Weakly-supervised Action Detection**  
 **Jiyoung Lee**, Seungryong Kim, Sunok Kim, and Kwanghoon Sohn<sup>$\dagger$</sup>   
-Pattern Recognition, Jun 2024. (Accepted). 
+Pattern Recognition, Jun 2024. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://www.sciencedirect.com/science/article/pii/S0031320324004552">Paper</a>
 </span>
@@ -394,9 +404,6 @@ IEEE International Conference on Image Processing(**ICIP**), Sep 2017.
   
 ## Preprint
 
-> **Prototype-guided Attention Distillation for Discriminative Person Search**  
-Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024. (Under Review).
 
 
 > **Language-Guided Recursive Spatiotemporal Graph Modeling for Video Summarization**  
