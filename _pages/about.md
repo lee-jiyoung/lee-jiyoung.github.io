@@ -93,7 +93,7 @@ $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
 IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="/">Paper</a>
+<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/10681282">Paper</a>
 </span>
 
 
