@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**10/2024**, 1 paper is accepted in **NeurIPS 2024 Workshop on Video-Language Models**.
+{: .notice}
 **09/2024**, 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 {: .notice}
 **06/2024**, 1 paper is accepted in **Pattern Recognition**.
@@ -89,22 +91,26 @@ Publication
 
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
-> **Prototype-guided Attention Distillation for Discriminative Person Search**  
-Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Jan 2024.
-<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
-<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/10681282">Paper</a>
-</span>
 
 
 > **Read, Watch and Scream! Sound Generation from Text and Video**  
 Yujin Jeong, Yunji Kim, Sanghyuk Chun, **Jiyoung Lee**<sup>$\dagger$</sup>   
-Preprint, Jul 2024. 
+NeurIPS Workshop on Video-Language Models, Dec 2024. 
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2407.05551">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://naver-ai.github.io/rewas/">Project</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/rewas">Code</a>
 </span>
+
+-----------
+
+> **Prototype-guided Attention Distillation for Discriminative Person Search**  
+Hanjae Kim, **Jiyoung Lee**, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Sep 2024.
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/10681282">Paper</a>
+</span>
+
 
 -----------
 
@@ -119,7 +125,7 @@ Pattern Recognition, Jun 2024.
 
 > **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**  
 Junyoung Seo<sup>$\star$</sup>, Wooseok Jang<sup>$\star$</sup>, Min-Seop Kwak<sup>$\star$</sup>, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim<sup>$\dagger$</sup>, **Jiyoung Lee**<sup>$\dagger$</sup>, and Seungryong Kim<sup>$\dagger$</sup>  
-International Conference on Learning Representations(**ICLR**), May 2024.
+International Conference on Learning Representations (**ICLR**), May 2024.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2303.07937">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/KU-CVLAB/3DFuse">Code</a>
@@ -131,7 +137,7 @@ International Conference on Learning Representations(**ICLR**), May 2024.
 
 > **Bridging Vision and Language Spaces with Assignment Prediction**  
 Jungin Park, **Jiyoung Lee**<sup>$\dagger$</sup>, and Kwanghoon Sohn<sup>$\dagger$</sup>  
-International Conference on Learning Representations(**ICLR**), May 2024.
+International Conference on Learning Representations (**ICLR**), May 2024.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2404.09632">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/park-jungin/vlap">Code</a>
@@ -141,7 +147,7 @@ International Conference on Learning Representations(**ICLR**), May 2024.
 
 > **Dense Text-to-Image Generation with Attention Modulation**  
 Yunji Kim, **Jiyoung Lee**, Jin-Hwa Kim, Jung-Woo Ha, and Jun-Yan Zhu  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2023.
+IEEE/CVF International Conference on Computer Vision (**ICCV**), Oct 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.12964">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/naver-ai/DenseDiffusion">Code</a>
@@ -152,7 +158,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2023.
 
 > **Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**  
 Hanjae Kim, **Jiyoung Lee**, Seongheon Park, and Kwanghoon Sohn  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2023.
+IEEE/CVF International Conference on Computer Vision (**ICCV**), Oct 2023.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2308.04016">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/HanjaeKim98/CoT">Code</a>
@@ -171,7 +177,7 @@ International Conference on Machine Learning (**ICML**), Jul 2023.
 
 > **Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild**  
 Gyeongsik Moon, Hongsuk Choi, Sanghyuk Chun, **Jiyoung Lee**, and Sangdoo Yun  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPRW**), Jun 2023.  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**), Jun 2023.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2304.04875">Preprint</a>
 <a class="page__taxonomy-item" rel="tag" href="https://github.com/mks0601/NeuralAnnot_RELEASE">Code</a>
