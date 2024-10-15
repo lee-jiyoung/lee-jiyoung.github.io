@@ -30,6 +30,8 @@ News
 {: .notice}
 **09/2024**, 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 {: .notice}
+**09/2024**, Start a lecture, **<a href="https://naver-ai.github.io/202402-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2024).
+{: .notice}
 **06/2024**, 1 paper is accepted in **Pattern Recognition**.
 {: .notice}
 **01/2024**, 2 papers are accepted at **ICLR** 2024.
