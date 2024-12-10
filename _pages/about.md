@@ -26,6 +26,8 @@ I am always looking for interns to collaborate with! If you are interested in do
 
 News
 ======
+**12/2024**, 1 paper is accepted in **AAAI** 2025.
+{: .notice}
 **10/2024**, 1 paper is accepted in **NeurIPS 2024 Workshop on Video-Language Models**.
 {: .notice}
 **09/2024**, 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
@@ -97,7 +99,8 @@ $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
 > **Read, Watch and Scream! Sound Generation from Text and Video**  
 Yujin Jeong, Yunji Kim, Sanghyuk Chun, **Jiyoung Lee**<sup>$\dagger$</sup>   
-NeurIPS Workshop on Video-Language Models, Dec 2024. 
+NeurIPS Workshop on Video-Language Models, Dec 2024.  
+The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), Feb 2025.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://arxiv.org/abs/2407.05551">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://naver-ai.github.io/rewas/">Project</a>
