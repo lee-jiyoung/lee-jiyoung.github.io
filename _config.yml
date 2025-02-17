@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiyoung Lee"
-  avatar           : "profile_new.png"
-  bio              : "Research Scientist"
+  avatar           : "me.png"
+  bio              : "Assistant Professor"
   location         : "Seoul, KR"
-  employer         : "NAVER AI Lab"
+  employer         : "Dept. of AI, Ewha Womans University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nIPWv9EAAAAJ"
-  email            : "lee.j@navercorp.com"
+  email            : "{firstname}.{lastname}@ewha.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
