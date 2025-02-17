@@ -27,7 +27,7 @@ I am always looking for undergraduate interns, and graduate students to collabor
 
 News
 ======
-**3/2025**, I will join in <a href="https://ai.ewha.ac.kr/deptai/index.do">Dept. of AI, Ewha Womans University</a>.
+**3/2025**, I will join in **<a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a>**.
 {: .notice}
 **12/2024**, 1 paper is accepted in **AAAI** 2025.
 {: .notice}
