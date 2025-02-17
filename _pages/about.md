@@ -21,7 +21,7 @@ Mostly, I am interested in audio-visual/vision-language models, generative model
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
 **Recruiting Undergraduate Intern/ Graduate Master, PhD**:
-I am always looking for undergraduate interns, and graduate students to collaborate with! If you are interested in doing a cool multimodal learning project, please send me an email introducing yourself and describing your research interests and experience.
+I am always looking for undergraduate interns, and graduate students to collaborate with! If you are interested in doing cool multimodal learning research, please send me an email introducing yourself and describing your research interests and experience.
 
 -----------
 
