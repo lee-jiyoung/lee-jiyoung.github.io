@@ -11,21 +11,24 @@ redirect_from:
 
 About Me
 =====
-I am a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>, South Korea.
+I am an assistant professor of the <a href="https://myr.ewha.ac.kr/deptai/index.do">Department of AI at Ewha Womans University</a>.
+Before joining Ewha Womans University, I was a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab</a>  from Dec. 2021 to Feb. 2025.
 I am broadly interested in multimodal learning & computer vision. 
-Mostly, I am interested in video understanding, audio-visual/vision-language models, generative modeling, but not limited to.
+Mostly, I am interested in audio-visual/vision-language models, generative modeling, and video understanding, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
 I received PhD from <a href="https://ee.yonsei.ac.kr/ee_en">Yonsei University</a>, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof. Kwanghoon Sohn</a>. 
 Previously I interned at Adobe Research in 2021, working with <a href="https://www.justinsalamon.com/">Justin Salamon</a> and <a href="https://dingzeyu.li/">Dingzeyu Li</a>, and collaborated with Microsoft Research, working with <a href="http://alumni.media.mit.edu/~djmcduff/">Daniel McDuff</a> in 2020. 
 
-**Internship at NAVER AI Lab**:
-I am always looking for interns to collaborate with! If you are interested in doing a cool multimodal learning project, please send me an email introducing yourself and describing your research interests and experience.
+**Recruiting Undergraduate Intern/ Graduate Master, PhD**:
+I am always looking for undergraduate interns, and graduate students to collaborate with! If you are interested in doing a cool multimodal learning project, please send me an email introducing yourself and describing your research interests and experience.
 
 -----------
 
 News
 ======
+**3/2025**, I will join in <a href="https://ai.ewha.ac.kr/deptai/index.do">Dept. of AI, Ewha Womans University</a>.
+{: .notice}
 **12/2024**, 1 paper is accepted in **AAAI** 2025.
 {: .notice}
 **10/2024**, 1 paper is accepted in **NeurIPS 2024 Workshop on Video-Language Models**.
