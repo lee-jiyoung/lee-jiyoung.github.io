@@ -20,7 +20,7 @@ I am broadly interested in multimodal learning & computer vision.
 Mostly, I am interested in audio-visual/vision-language models, generative modeling, and video understanding, but not limited to.
 For more check out my <a href="files/JiyoungLee_CV.pdf">CV</a>.
 
-**Recruiting Undergraduate Intern/ Graduate Master&PhD Students**:
+**Recruiting Undergraduate Interns/ Graduate Master&PhD Students**:
 I am always looking for undergraduate interns, and graduate students to collaborate with! If you are interested in doing cool multimodal learning research, please send me an email ({last_name}.{first_name}@ewha.ac.kr) introducing yourself and describing your research interests and experience.
 
 -----------
