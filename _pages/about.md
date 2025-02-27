@@ -27,7 +27,9 @@ I am always looking for undergraduate interns, and graduate students to collabor
 
 News
 ======
-**3/2025**, I will join in **<a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a>**.
+**02/2025**, 1 paper is accepted in **CVPR** 2025.
+{: .notice}
+**02/2025**, I will join in **<a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a>**.
 {: .notice}
 **12/2024**, 1 paper is accepted in **AAAI** 2025.
 {: .notice}
@@ -98,6 +100,14 @@ Publication
 
 $^\star$ equal contribution, $^\dagger$ corresponding author(s)
 
+> **Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**  
+Jungin Park, **Jiyoung Lee**<sup>$\dagger$</sup>, and Kwanghoon Sohn<sup>$\dagger$</sup>  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Jun 2025.  
+<span class="page__meta page__taxonomy comment__date" itemprop="keywords">
+<a class="page__taxonomy-item" rel="tag" href="#">Paper</a>
+</span>
+
+-----------
 
 
 > **Read, Watch and Scream! Sound Generation from Text and Video**  
