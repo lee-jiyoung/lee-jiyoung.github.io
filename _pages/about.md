@@ -47,6 +47,11 @@ News
 {: .notice}
 **01/2024**, 2 papers are accepted at **ICLR** 2024.
 {: .notice}
+
+<details>
+<summary>older news</summary>
+<div markdown="1">
+  
 **09/2023**, Start a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
 {: .notice}
 **07/2023**, 2 papers are accepted at **ICCV** 2023.
@@ -60,9 +65,7 @@ News
 **02/2023**, 1 paper is accepted at **ICASSP** 2023.
 {: .notice}
 
-<details>
-<summary>older news</summary>
-<div markdown="1">
+
 **11/2022**, 1 paper is accepted at **AAAI** 2023.
 {: .notice}
 **10/2022**, 1 paper is accepted at **WACV** 2023.
@@ -359,7 +362,7 @@ European Conference on Computer Vision (**ECCV**), Aug 2020.
 
 > **Multi-modal Recurrent Attention Networks for Facial Expression Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE Transactions on Image Processing, Mar 2020.
+IEEE Transactions on Image Processing (**TIP**), Mar 2020.
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://ieeexplore.ieee.org/document/9102419">Paper</a>
 </span>  
@@ -377,7 +380,7 @@ IEEE/CVF International Conference on Computer Vision Workshop (**ICCVW**), Oct 2
 
 > **Context-Aware Emotion Recognition Networks**  
 **Jiyoung Lee**, Seungryong Kim, Sunok Kim, Jungin Park, and Kwanghoon Sohn  
-IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2019.  
+IEEE/CVF International Conference on Computer Vision (**ICCV**), Oct 2019.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf">Paper</a>
 <a class="page__taxonomy-item" rel="tag" href="https://caer-dataset.github.io/">Project</a>
@@ -387,7 +390,7 @@ IEEE/CVF International Conference on Computer Vision(**ICCV**), Oct 2019.
 
 > **Graph Regularization Network With Semantic Affinity for Weakly-supervised Temporal Action Localization**  
 Jungin Park, **Jiyoung Lee**, Sangryul Jeon, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Image Processing(**ICIP**), Sep 2019.  
+IEEE International Conference on Image Processing (**ICIP**), Sep 2019.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icip19_Jungin_Park.pdf">Paper</a>
 </span>   
@@ -396,7 +399,7 @@ IEEE International Conference on Image Processing(**ICIP**), Sep 2019.
 
 > **Audio-Visual Attention Networks for Emotion Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-ACM Multimedia Workshop(**MMW**), Oct 2018.  
+ACM Multimedia Workshop (**MMW**), Oct 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/acmmm18_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -405,7 +408,7 @@ ACM Multimedia Workshop(**MMW**), Oct 2018.
 
 > **Learning to Detect, Associate, and Recognize Human Actions and Surrounding Scenes in Untrimmed Videos**  
 Jungin Park, Sangryul Jeon, Seungryong Kim, **Jiyoung Lee**, Sunok Kim, and Kwanghoon Sohn  
-ACM Multimedia Workshop(**MMW**), Oct 2018.  
+ACM Multimedia Workshop (**MMW**), Oct 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/acmmmw18_Jungin_Park.pdf">Paper</a>
 </span>   
@@ -414,7 +417,7 @@ ACM Multimedia Workshop(**MMW**), Oct 2018.
 
 > **Spatiotemporal Attention Based Deep Neural Networks for Emotion Recognition**  
 **Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Acoustics, Speech and Signal Processing(**ICASSP**), Apr 2018.  
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Apr 2018.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icassp18_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -422,8 +425,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing(**ICASS
 -----------
 
 > **Automatic 2D-to-3D Conversion using Multi-scale Deep Neural Network**  
-**Jiyoung Lee**, Sunok Kim, Seungryong Kim, and Kwanghoon Sohn  
-IEEE International Conference on Image Processing(**ICIP**), Sep 2017.  
+**Jiyoung Lee**, Hyungjoo Jung, Youngjung Kim, and Kwanghoon Sohn  
+IEEE International Conference on Image Processing (**ICIP**), Sep 2017.  
 <span class="page__meta page__taxonomy comment__date" itemprop="keywords">
 <a class="page__taxonomy-item" rel="tag" href="files/icip17_Jiyoung_Lee.pdf">Paper</a>
 </span>   
@@ -445,8 +448,8 @@ International Journal of Computer Vision, Feb 2024. (Under Review).
   
 Professional Service
 ======
-* Reviewer: SIGGRAPH 2024, NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICML 2023-2024, ICASSP 2023, ECCV 2022-2024, IEEE TPAMI, IEEE TIP, IEEE Access
-
+* Reviewer: ICML 2023-2025, AAAI 2025, SIGGRAPH 2024, NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICASSP 2023, ECCV 2022-2024, IEEE TPAMI, IEEE TIP, IEEE Access
+  
 * Lecture
 
   * "Intelligent Algorithm" and "Speech Recognition", Ewha Womans University, Mar 2025.
