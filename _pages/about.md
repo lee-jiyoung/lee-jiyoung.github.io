@@ -31,6 +31,10 @@ News
 {: .notice}
 **02/2025**, I will join in **<a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a>**.
 {: .notice}
+**12/2024**, Giving a talk at **<a href="https://event-us.kr/eventinfo/event/96012" style="color: green>Postech AI day</a>** (topic: Read, Watch and Scream! Sound Generation from Text and Video).
+{: .notice}
+**12/2024**, Giving a talk at **HUST, Vietnam** (topic: Audio Generation from Visual Contents).
+{: .notice}
 **12/2024**, 1 paper is accepted in **AAAI** 2025.
 {: .notice}
 **10/2024**, 1 paper is accepted in **NeurIPS 2024 Workshop on Video-Language Models**.
@@ -444,5 +448,11 @@ Professional Service
 * Reviewer: SIGGRAPH 2024, NeurIPS 2023, ICCV 2023, CVPR 2022-2024, ICML 2023-2024, ICASSP 2023, ECCV 2022-2024, IEEE TPAMI, IEEE TIP, IEEE Access
 
 * Lecture
+
+  * "Intelligent Algorithm" and "Speech Recognition", Ewha Womans University, Mar 2025.
+
+  * <a href="https://naver-ai.github.io/202402-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>, Seoul National University, Fall 2024 (AI773).
+    
   * <a href="https://naver-ai.github.io/202302-AI773/">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>, Seoul National University, Fall 2023 (AI773).
+  
 
