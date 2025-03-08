@@ -31,7 +31,7 @@ News
 {: .notice}
 **02/2025**, I will join in **<a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a>**.
 {: .notice}
-**12/2024**, Giving a talk at **<a href="https://event-us.kr/eventinfo/event/96012" style="color: green>Postech AI day</a>** (topic: Read, Watch and Scream! Sound Generation from Text and Video).
+**12/2024**, Giving a talk at **<a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a>** (topic: Read, Watch and Scream! Sound Generation from Text and Video).
 {: .notice}
 **12/2024**, Giving a talk at **HUST, Vietnam** (topic: Audio Generation from Visual Contents).
 {: .notice}
