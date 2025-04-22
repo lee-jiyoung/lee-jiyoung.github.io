@@ -28,7 +28,7 @@ I am always looking for undergraduate interns, and graduate students to collabor
 News
 ======
 
-**04/2025**, **<a href="http://mmai.ewha.ac.kr/">Multimodal AI Lab @ EWHA</a>** website is now open! 👋
+**04/2025**, **<a href="http://mmai.ewha.ac.kr/" style="color: green">Multimodal AI Lab @ EWHA</a>** website is now open! 👋
 {: .notice}
 **02/2025**, 1 paper is accepted in **CVPR** 2025.
 {: .notice}
